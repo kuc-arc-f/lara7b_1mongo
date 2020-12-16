@@ -25,6 +25,7 @@ php artisan serve
 ***
 ### blog
 
+https://note.com/knaka0209/n/ndf839f2f7cfe
 
 ***
 
